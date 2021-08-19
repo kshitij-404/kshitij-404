@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 📝 You can check my Resume [here](https://drive.google.com/file/d/19BhjwBkgQoDy07nCJVR_6_LAE0JB61Ue/view)
 
 ## ⌨ Tech Stack
-[![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&labelColor=white)
-](https://www.javascript.com/) [![node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&labelColor=white)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&labelColor=black)
+](https://www.javascript.com/) [![node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&labelColor=black)
 ](https://nodejs.org/en/) [![express.js](https://img.shields.io/badge/-express.js-259dff?style=flat-square&logo=express&logoColor=259dff&labelColor=white)
 ](https://expressjs.com/) [![postgreSQL](https://img.shields.io/badge/-PostgreSQL-32668f?style=flat-square&logo=postgresql&labelColor=white)
 ](https://www.postgresql.org/) [![HTML](https://img.shields.io/badge/-HTML-dd4b25?style=flat-square&logo=html5&labelColor=white)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ](https://isocpp.org/) [![git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&labelColor=white)
 ](https://git-scm.com/) [![Figma](https://img.shields.io/badge/-Figma-ff7262?style=flat-square&logo=figma&labelColor=white)
 ](https://www.figma.com/) [![VScode](https://img.shields.io/badge/-VScode-blue?style=flat-square&logo=visualstudiocode&logoColor=blue&labelColor=white)
-](https://code.visualstudio.com/) [![linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&labelColor=white)
+](https://code.visualstudio.com/) [![linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&labelColor=black)
 ](https://www.linux.org/) 
 ## 🤝 Connect with Me
 [![linkedin](https://img.shields.io/badge/-kshitijayush4-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kshitijayush4/)      	[![gmail](https://img.shields.io/badge/-kartik4ka%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kartik4ka@gmail.com)  [![instagram](https://img.shields.io/badge/-%40pizza__404-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pizza_404/)
