@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 📝 You can check my Resume [here](https://drive.google.com/file/d/19BhjwBkgQoDy07nCJVR_6_LAE0JB61Ue/view)
 
 ## ⌨ Tech Stack
-[![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=white&labelColor=)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&labelColor=white)
 ](https://www.javascript.com/) [![node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&labelColor=white)
 ](https://nodejs.org/en/) [![express.js](https://img.shields.io/badge/-express.js-259dff?style=flat-square&logo=express&logoColor=259dff&labelColor=white)
 ](https://expressjs.com/) [![postgreSQL](https://img.shields.io/badge/-PostgreSQL-32668f?style=flat-square&logo=postgresql&labelColor=white)
