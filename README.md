@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 🌱 I’m learning and exploring new tech stack.
 
-📫 Contact me at kartik4ka@gmail.com
+📫 Contact me at kshitij4ka@gmail.com
 
-📝 You can check my Resume [here](https://drive.google.com/file/d/19BhjwBkgQoDy07nCJVR_6_LAE0JB61Ue/view)
+📝 You can check my Resume [here](https://drive.google.com/file/d/1YdvWLU_sb6s2GPZOr3typVqKIf_LwVmV/view)
 
 ## ⌨ Tech Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&labelColor=white)
