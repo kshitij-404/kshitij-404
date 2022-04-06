@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📫 Contact me at kshitij4ka@gmail.com
 
-📝 You can check my Resume [here](https://drive.google.com/file/d/1YdvWLU_sb6s2GPZOr3typVqKIf_LwVmV/view)
+📝 You can check my Resume [here](https://drive.google.com/file/d/1bmu_TNMRT7jakGs2hnPq4dlip-J4MWkn/view?usp=sharing)
 
 ## ⌨ Tech Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&labelColor=white)
