@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 
 ## ⌨ Tech Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&labelColor=white)
-](https://www.javascript.com/)  [![Solidity](https://img.shields.io/badge/-Solidity-616161?style=flat-square&logo=solidity&labelColor=white)
-](https://docs.soliditylang.org/en/v0.8.13/)  [![Web3](https://img.shields.io/badge/-Web3-6e47ff?style=flat-square&logo=web3&labelColor=white)
-](https://ethereum.org/en/developers/docs/web2-vs-web3/) [![node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&labelColor=white)
+](https://www.javascript.com/)  [![Solidity](https://img.shields.io/badge/-Solidity-6e47ff?style=flat-square&logo=solidity&labelColor=white)
+](https://docs.soliditylang.org/en/v0.8.13/) [![node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&labelColor=white)
 ](https://nodejs.org/en/) [![express.js](https://img.shields.io/badge/-express.js-259dff?style=flat-square&logo=express&logoColor=259dff&labelColor=white)
 ](https://expressjs.com/) [![postgreSQL](https://img.shields.io/badge/-PostgreSQL-32668f?style=flat-square&logo=postgresql&labelColor=white)
 ](https://www.postgresql.org/) [![HTML](https://img.shields.io/badge/-HTML-dd4b25?style=flat-square&logo=html5&labelColor=white)
