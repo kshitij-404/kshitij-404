@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ## 🙋 About me
-🔭 I’m currently studying Information Technology in IIIT, Gwalior.
+👨‍💻 I am a **Full Stack Web** and **Software Developer** and a **Blockchain Enthusiast**.
 
-🌱 I’m learning and exploring new tech stack.
+🌟 Some of my greatest achievements include being the **Second Runner Up at Flipkart GRiD 6.0 (among 17,000+ Participants)** and being in **Top 5 of Rakathon (among 10,000+ participants)**.
 
-📫 Contact me at kshitij4ka@gmail.com
+🗒️ My go to languages for development are **JavaScript/TypeScript**, **Go** and **Rust**.
+
+🔭 I’m currently studying Information Technology in **IIIT Gwalior**.
+
+🌱 I’m always learning and exploring new tech stack.
+
+📫 Contact me at [kshitij4ka@gmail.com](mailto:kshitij4ka@gmail.com)
 
 📝 You can check my Resume [here](https://www.kshitij-ayush.tech/resume.pdf)
 
