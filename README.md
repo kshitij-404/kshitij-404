@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 📝 You can check my Resume [here](https://www.kshitij-ayush.tech/resume.pdf)
 
 ## 🤝 Connect with Me
-[![linkedin](https://img.shields.io/badge/-kshitijayush4-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kshitijayush4/)      	[![gmail](https://img.shields.io/badge/-kshitij4ka%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kshitij4ka@gmail.com)  [![instagram](https://img.shields.io/badge/-%40pizza__404-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pizza_404/)
+[![linkedin](https://img.shields.io/badge/-kshitijayush4-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kshitijayush4/)      	[![gmail](https://img.shields.io/badge/-kshitij4ka%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kshitij4ka@gmail.com)
